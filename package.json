@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nirne12/Node-APIs-using-Mongo/issues"
   },
-  "homepage": "https://github.com/nirne12/Node-APIs-using-Mongo#readme"
+  "homepage": "https://github.com/nirne12/Node-APIs-using-Mongo#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
 }
