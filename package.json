@@ -1,0 +1,20 @@
+{
+  "name": "Node-APIs-using-Mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirne12/Node-APIs-using-Mongo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nirne12/Node-APIs-using-Mongo/issues"
+  },
+  "homepage": "https://github.com/nirne12/Node-APIs-using-Mongo#readme"
+}
